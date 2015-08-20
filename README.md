@@ -1,8 +1,8 @@
 # data-2
 
-## this is a smallish title
+### this is a smallish title
 
-### this is larger
+## this is larger
 
 * i'm having fun
 * no i'm not
